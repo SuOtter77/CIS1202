@@ -1,0 +1,36 @@
+Starting Out with C++
+Pearson
+129.98
+2018
+0
+25
+The World is Flat
+Farrar, Straus and Giroux
+30.00
+2006
+0
+12
+Good to Great
+Collins Business
+29.99
+2001
+0
+10
+You Cant Make this Stuff Up
+Atrai Books
+25.00
+2021
+1
+7.95
+Winners
+Dell
+7.99
+2013
+1
+6
+The Wall Street Journal
+News Corp
+2.95
+2021
+2
+1

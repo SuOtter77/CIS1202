@@ -1,0 +1,6 @@
+
+// AG's Documentation
+// Run the program and maybe press enter if Visual Studio is pretending to debug again. Usually this is unneeded.
+// Enter options as needed
+// Don't overload the input buffer when you're asked for a price or number. Simple enough, right? Type a normal number and not 939393939939393939393939393939399i393939393i39393ii3i3iiiiii
+// Exit by typing 5 so your data gets saved into the binary file.
